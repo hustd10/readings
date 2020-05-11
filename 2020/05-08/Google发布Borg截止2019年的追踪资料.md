@@ -14,3 +14,6 @@ Master和Worker关系信息。
 
 - [https://mp.weixin.qq.com/s/nKLAPFnj3OgS-IPDXtuZTg](https://mp.weixin.qq.com/s/nKLAPFnj3OgS-IPDXtuZTg)
 - [https://ai.googleblog.com/2020/04/yet-more-google-compute-cluster-trace.html](https://ai.googleblog.com/2020/04/yet-more-google-compute-cluster-trace.html)
+
+## Borg 相关的其他资料
+- 《Large-scale cluster management at Google with Borg》谷歌 2005 年发表的介绍 Borg 的论文，不错的中文翻译：[https://ying-zhang.github.io/doc/EuroSys15_Borg_CN_Ying_201806.pdf](https://ying-zhang.github.io/doc/EuroSys15_Borg_CN_Ying_201806.pdf)。
