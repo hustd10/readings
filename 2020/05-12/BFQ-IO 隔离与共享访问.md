@@ -1,0 +1,1 @@
+- Paolo valente在2010年发表在IEEE Transactions on Computers上的：[http://algo.ing.unimo.it/people/paolo/disk_sched/bfq-techreport.pdf](http://algo.ing.unimo.it/people/paolo/disk_sched/bfq-techreport.pdf)，首次正式提出BFQ算法。2012年发表在SYSTOR上的补充版: [http://algo.ing.unimo.it/people/paolo/disk_sched/bf1-v1-suite-results.pdf](http://algo.ing.unimo.it/people/paolo/disk_sched/bf1-v1-suite-results.pdf)
