@@ -1,0 +1,2 @@
+2003年发表在SOSP的Xen and the art of virtualization，讲述xen虚拟机相关技术以及综述.
+[https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf)
