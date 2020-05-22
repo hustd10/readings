@@ -1,0 +1,2 @@
+SEDA（Staged Event-Driven Architecture）是一种以状态事件驱动为基础的高并发模型。
+[https://img.sauf.ca/pictures/2015-11-20/eaf0277e0c3e6f5c9c81d2815c9dc082.pdf](https://img.sauf.ca/pictures/2015-11-20/eaf0277e0c3e6f5c9c81d2815c9dc082.pdf)
